@@ -10,7 +10,7 @@
 */
 
 console.log({ 
-    nome: "Bruno Carvalho Filadelfo",
+    nome: "Anonymous Desconhecido",
     idade: 26,
     altura: 1.88,
 })

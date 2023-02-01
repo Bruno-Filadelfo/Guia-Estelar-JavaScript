@@ -5,11 +5,11 @@
     * Uma Lista
     * Agrupamento de dado
     
-    ["Bruno",26]
+    ["Anonymous",26]
 
 */
 
 console.log([
-    "Bruno", 
-    "Carvalho",
+    "Anoymous", 
+    "Desconhecido",
 ])
