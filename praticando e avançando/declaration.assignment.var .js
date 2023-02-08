@@ -32,7 +32,15 @@ console.log(typeof name)
 
 let age, isHuman 
 
-age = 18 
+age = 26
 isHuman = true 
 
-console.log(name, age, isHuman)
+
+/* 05 
+
+   // multiplos argumentos na funcao
+   // console.log(name, age, isHuman)
+   // escrita de texto + variáveis   */
+   // concatenando valores
+console.log(' o ' + name + ' tem ' + age + ' anos.' )
+console.log(`o ${name} tem ${age} anos.`)
