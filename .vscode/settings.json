@@ -1,0 +1,11 @@
+{
+    "git.autoStash": false,
+    "git.allowForcePush": false,
+    "git.alwaysSignOff": true,
+    "git.alwaysShowStagedChangesResourceGroup": false,
+    "git.allowNoVerifyCommit": false,
+    "git.branchRandomName.enable": false,
+    "git.closeDiffOnOperation": false,
+    "git.enableCommitSigning": false,
+    "gitlens.codeLens.includeSingleLineSymbols": false
+}
